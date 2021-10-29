@@ -1,0 +1,364 @@
+pattern	replacement
+# This replacement resolves abbreviations in early modern Latin texts.	
+# The replacement table is a csv file, i.e. two values per line separated by a comma.	
+# Lines starting with "#" are treated as comments.	
+# The first line must contain the column headers.	
+# The first column is a REGEX pattern for finding a string, the second column	
+# contains the replacement for this string.	
+# You can use REGEX groups (i.e. parenthesis) in the search pattern	
+# and reference them in the replacement string with \g<#> where # is the number of	
+# the group (beginning with 1).	
+# https://regex101.com/ provides help on REGEX and a playground.	
+#	
+# ATTENTION: Make sure to ESCAPE characters that are reserved metacharacters 	
+#                       in REGEX, like ".", "&" etc. with a backslash ("\").	
+#	
+# Search for derivates of "etc.", "&", and " ]" using REGEX:	
+\& cæter[ai]	etc
+\& cę\b	etc
+\&cęt\.	etc
+\& cęt\.	etc
+\&cęte\b	etc
+\& cæte\.	etc
+\& cæt\.	etc
+\&cæt\.	etc
+\& cæt\b	etc
+\& cæ\.	etc
+\&cæ\.	etc
+\&c̄	etc
+\&c̄	etc
+\&c	etc
+etc̄	etc
+⁊c\.	etc\.
+\&	et
+\s\]	.
+#	
+# The easy ones:	
+v	u
+j	i
+ſ	s
+œ	oe
+æ	ae
+Æ	Ae
+ę	ae
+ò	o
+ó	o
+ô	o
+à	a
+á	a
+â	a
+è	e
+é	e
+ê	e
+ù	u
+ú	u
+û	u
+í	i
+ì	i
+î	i
+ń	n
+ß	ss
+ꝶ	rum
+\.s\.	scilicet
+quid n\.	quid .n.
+\.n\.	enim
+ n\.	 enim
+q\.\s?d\.	quasi diceret
+\bi\.	id est
+Chor\.	Corinthos
+# Spezialitäten für Melanchthon-Edition 19. Jhd. (entfernt Trennzeichen, Fußnotenzeichen)	
+¬	-
+#\d*\)	
+# ë equals e most of the time – with some exceptions	
+coëternum	coaeternum
+ë	e
+# Special spelling	
+#([^uis])cio	\g<1>tio
+#([^us])cia	\g<1>tia
+#([^lus])ciu	\g<1>tiu
+\bpte\b	parte
+andraea	andrea
+commedit	comedit
+consyd	consid
+fiduti	fiduci
+foemin	femin
+\bcael	coel
+consumat	consummat
+dedicisse	dedicavisse
+deipso	de ipso
+deliti	delici
+durici	duriti
+egoipse	ego ipse
+foelic	felic
+foelix	felix
+mundicia	munditia
+\bhaered	hered
+hiipsi	hi ipsi
+\bimo\b	immo
+immundicia	immunditia
+impregnata	impraegnata
+incompraehensibilis	incomprehensibilis
+incompraehensibile	incomprehensibile
+\blitera	littera
+\bocios	otios
+negoci	negoti
+numular	nummular
+paradys	paradis
+paradysi	paradisi
+plaer	pler
+plaerunq	plerumq
+plærunq	plerumq
+plerunq	plerumq
+plusquam	plus quam
+precon	praecon
+predica	praedica
+praeca	preca
+\bquum	cum
+quut	cut
+solenn	solemn
+suspiti	suspici
+syncer	sincer
+sycer	sincer
+syder	sider
+consyd	consid
+\bcunq	cumq
+\bcunq̄	cumque
+circun	circum
+quencunq	quemcumq
+quantascunq	quantascumq
+suspiti	suspici
+ubicunq	ubicumq
+\bunq\B	umq
+utranq	utramq
+utrorunq	utrorumq
+utrunq	utrumq
+quanuis	quamuis
+quantun	quantum
+quenq	quemq
+quanq	quamq
+solennes	solemnes
+nanq	namq
+tanq	tamq
+#nunq	numq
+#	
+# Delete duplicated full stops, colons with leading blanks, and tabs:	
+\.\.	.
+\s\:	:
+\t	
+#	
+# Depending on the context, "…qʒ" and its variants can be "…quam" or "…que"	
+# a) "…qʒ" = "…quam" not "…que"	
+vnꝗ̃	umquam
+unꝗ̃	umquam
+unq̃ʒ	umquam
+nunquam	numquam
+nunq̃ʒ	numquam
+nunꝗ̃'	numquam
+nunꝗ̃	numquam
+nusq̄ʒ	nusquam
+quamqʒ	quamquam
+anteqʒ	antequam
+ q̃ʒ 	 quam 
+# b) "…qʒ" = "…que"	
+\Bqʒ	que
+\Bq́ʒ	que
+\Bq̄ʒ	que
+\Bq̃ʒ	que
+\Bꝗ̃'	quam
+\Bʒ	que
+\Bq́;	que
+\Bq;	que
+\bq;	que
+\Bq́ue	que
+\Bq̄	que
+# ꝗ̃ heißt nur in 99% der Fälle "quod" oder "quam"!	
+quisꝗ̃	quisque
+anteꝗ̃	antequam
+nequaꝗ̃	nequaquam
+inꝗ̃	inquit
+quanꝗ̃	quamquam
+\bꝗ̃\b	quod
+ꝗ̃e	quie
+ꝗ̃	quam
+ꝗ̈	quam
+# Special utf-8 characters:	
+S⁹	sanctus
+⁹	us
+t̄	tur
+xp̄s	Christus
+ꝑ	per
+ꝓ	pro
+p̄ces	preces
+p̄	prae
+acꝗrebant	acquirebant
+inꝗetam	inquietam
+inꝗt	inquit
+inꝗunt	inquiunt
+loꝗtur	loquitur
+loꝗ\b	loqui
+reꝗrit	requirit
+seꝗtur	sequitur
+seꝗ\b	sequi
+ꝗs	quis
+ꝗd	quid
+ꝗc	quic
+ꝗbus	quibus
+alioꝗ	alioqui
+q̄ras	quaeras
+q̄rit	quaerit
+\bq̄	quae
+ꝗ̄	quam
+q,̄	quam
+ꝙ	quod
+qđ	quod
+qd̄	quod
+\bꝗ\b	 quod 
+# ꝗ heißt allerdings manchmal auch "qui"! z.B. wild1578:577.r2l51, wild1558u:394.r1l19	
+aliꝗ	aliqui
+ꝗa	quia
+q̊s	quos
+q̊d	quod
+em̄	enim
+tm̄	tantum
+qm̄	quoniam
+ꝗm̄	quoniam
+quō	quoniam
+tn̄	tamen
+bn̄	bene
+dn̄s	dominus
+dn̄i	domini
+dn̄o	domino
+dn̄m	dominum
+dn̄e	domine
+gn̄ra	genera
+gn̄ali	generali
+Un̄	unde
+qn̄	quando
+pseudochr̄ianos	pseudochristianos
+chr̄ianos	christianos
+chr̄iani	christiani
+chr̄us	Christus
+chr̄s	Christus
+chr̄o	Christo
+chr̄i	Christi
+nr̄i	nostri
+nr̄am	nostram
+ur̄os	uestros
+pr̄e	patre
+noīat	nominat
+noīe	nomine
+noīa	nomina
+hoīem	hominem
+hoīm	hominem
+hoībus	hominibus
+hoīs	hominis
+hoīes	homines
+hoīum	hominum
+hoīe	homine
+\bhō\b	homo
+aīa	anima
+aīam	animam
+aīae	animae
+aīæ	animae
+aīo	animo
+aīos	animos
+spū	spiritu
+\boīa	omnia
+oīs	omnis
+oībus	omnibus
+om̄i	omni
+oīno	omnino
+oīm	omnium
+oīum	omnium
+\boī\b	omni
+enī	enim
+ratōi	rationi
+rōne	ratione
+ſctō	sancto
+#	
+# Vocals with MAKRON	
+# Replace exceptional cases first	
+\boēs	omnes
+oēm	omnem
+tamē	tamen
+Ebiō	Ebion
+ioān	ioann
+Ioān	Ioann
+Ioā	Ioan
+noē	noen
+Noē	Noen
+moysē	moysen
+Moysē	Moysen
+\bnomē	nomen
+\blumē	lumen
+\bamē	amen
+\bnō	non
+\baūt\b	autem
+quomō\b	quomodo
+# These are difficult to resolve, because we have to consider cases like "mē-\ntis" or "captē$dis" where	
+# "ē" is followed by a hyphened line break or the end of a line. Using \b = word boundary produces 	
+# bad results sometimes. Therefore, makrons at the end of a word are resolved in a separate function, 	
+# not via this replacement table!	
+# Tested with these pairs:	
+# uertūt primū dicimusū? circū=cisio reū-	
+# suntū. Primū, Testamentorū	
+#ā([^-=$])	am\g<1>
+#ē([^-=$])	em\g<1>
+#ō([^-=$])	om\g<1>
+#ū([^-=$])	um\g<1>
+#ā([^\w-=])	am\g<1>
+#ē([^\w-=])	em\g<1>
+#ō([^\w-=])	om\g<1>
+#ū([^\w-=])	um\g<1>
+#ā($|[^a-zA-Z0-9\-=])	am\g<1>
+#ē($|[^a-zA-Z0-9\-=])	em\g<1>
+#ō($|[^a-zA-Z0-9\-=])	om\g<1>
+#ū($|[^a-zA-Z0-9\-=])	um\g<1>
+#	
+# Vocals with makron in the middle of a word	
+qūo	quo
+\bcūq	cumq
+cūcta	cuncta
+circūc	circumc
+circunc	circumc
+cūq	cumq
+cūc	cumc
+tūcq	tuncq
+ūc\b	unc
+#\Būc	umc # adiūcta
+ioānes	ioannes
+quāq	quamq
+quēnq	quemq
+ām	amm
+#ān	amn # māna = manna
+āu	amu
+āc	anc
+ād	and
+āg	ang
+āq	amq
+#ās	ans # etiāsi = etiamsi
+āt	ant
+ēa	ema
+ēd	end
+sēnach	sennach
+ēp	emp
+ēs	ens
+\bēt\b	etiam
+\Bēt	ent
+\bpōt\b	potest
+ōc	onc
+ōd	ond
+ōf	onf
+ōg	ong
+ōi	oni
+ōm	omm
+ōp	omp
+ōs	ons
+ōt	ont
+ōu	onu
+ūd	und
+#ūm	umm #primū
+ūq	umq
+#ūt	unt # aūt = autem
+ūu	umu
+Uet\. lege	uetere lege
