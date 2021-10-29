@@ -7,7 +7,7 @@
 * Activate the new environment, e.g. `conda activate dh_blog`.
 * Clone this repository.
 * Use pip to install the required Python packages: `pip install -r requirements.txt`.
-* Download [`hunspell-la.zip`](https://latin-dict.github.io/docs/hunspell-la.zip), the Latin Hunspell dictionary by Karl Zeiler and Jean-Pierre Sutto, and unzip it to the project folder (“resolve_abbreviations”).
+* Download [`hunspell-la.zip`](https://latin-dict.github.io/docs/hunspell-la.zip), the Latin Hunspell dictionary by Karl Zeiler and Jean-Pierre Sutto, and unzip it to the project folder. Afterwards, you should have a folder called `finding_differences/hunspell-la`.
 * Import the two subfolders in `Transkribus_Test_Data` into your Transkribus account so that you have two new documents: `Wild1559-original` and `Wild1577b-expurgated`.
 
 ## Usage
