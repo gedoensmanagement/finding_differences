@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ferus_2020-06-18_printed,Latin,1500s(htr_id=24731)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-08-11T18:21:25</Created>
+        <LastChange>2020-08-11T18:29:40.873+02:00</LastChange>
+        <TranskribusMetadata docId="292113" pageId="11639684" pageNr="717" tsid="36630198" status="GT" userId="18841" imgUrl="https://files.transkribus.eu/Get?id=XOZDBSTJFHTXMEBLJDADTZSH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ALZJNLNOQITYPMJFMTPGWBHR" imageId="8018692"/>
+    </Metadata>
+    <Page imageFilename="VviReugB9nEC,0717,RA7-PA36.jpeg" imageWidth="1643" imageHeight="2500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1635500007696" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rP4zs_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rP4zs_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="290,124 313,2277 1517,2273 1545,117"/>
+            <TextLine id="rP4zs_1l1" custom="readingOrder {index:0;}">
+                <Coords points="303,181 1528,177 1528,101 303,125"/>
+                <Baseline points="311,161 371,160 431,160 492,160 552,160 613,160 673,160 734,160 794,160 855,160 915,159 975,159 1036,159 1096,159 1157,158 1217,158 1278,157 1338,157 1399,156 1459,155 1520,154"/>
+                <TextEquiv>
+                    <Unicode>zatus. Illic ergo Chriſtus interrogauit diſcipulos. Primo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l2" custom="readingOrder {index:1;}">
+                <Coords points="303,220 1539,232 1549,169 302,181"/>
+                <Baseline points="310,213 371,214 433,214 494,214 556,214 618,214 679,214 741,214 802,214 864,214 926,213 987,213 1049,213 1110,213 1172,212 1234,212 1295,212 1357,212 1418,212 1480,212 1542,212"/>
+                <TextEquiv>
+                    <Unicode>enim voluit periculum facere, quantum profeciſſent ex tot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l3" custom="readingOrder {index:2;}">
+                <Coords points="306,284 1544,268 1514,218 306,228"/>
+                <Baseline points="314,267 375,267 436,268 497,268 558,268 619,268 680,268 741,268 802,267 863,267 925,267 986,266 1047,266 1108,266 1169,265 1230,265 1291,265 1352,264 1413,264 1474,264 1536,264"/>
+                <TextEquiv>
+                    <Unicode>ſermonibus ac miraculis, &amp; an aliquid ſublimius de ipſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l4" custom="readingOrder {index:3;}">
+                <Coords points="303,331 1530,336 1542,285 303,287"/>
+                <Baseline points="310,321 371,321 432,322 493,322 554,322 616,322 677,322 738,322 799,321 860,321 922,321 983,320 1044,320 1105,319 1166,319 1228,319 1289,319 1350,319 1411,319 1472,320 1534,320"/>
+                <TextEquiv>
+                    <Unicode>ſentirent, quàm vulgus: quo nimirum docuit paſtores, vt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l5" custom="readingOrder {index:4;}">
+                <Coords points="301,387 1480,393 1535,384 1535,336 300,329"/>
+                <Baseline points="308,375 369,375 430,375 491,375 552,375 613,375 674,375 735,375 796,375 857,375 918,375 979,375 1040,374 1101,374 1162,374 1223,373 1284,373 1345,372 1406,371 1467,370 1528,369"/>
+                <TextEquiv>
+                    <Unicode>ſoliciti ſint de plebis fide. Ob eam enim cauſam Paulus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l6" custom="readingOrder {index:5;}">
+                <Coords points="301,446 1127,454 1472,442 1532,405 300,387"/>
+                <Baseline points="308,427 368,428 429,428 490,429 551,429 612,429 672,429 733,429 794,429 855,429 916,428 976,428 1037,428 1098,427 1159,427 1220,426 1280,426 1341,426 1402,425 1463,425 1524,424"/>
+                <TextEquiv>
+                    <Unicode>aſſerit ipſos rationem reddituros Deo pro animabus no-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l7" custom="readingOrder {index:6;}">
+                <Coords points="300,497 1530,500 1530,445 1414,430 300,446"/>
+                <Baseline points="308,482 368,482 429,482 490,482 550,482 611,482 672,482 732,482 793,482 854,482 915,482 975,482 1036,482 1097,481 1157,481 1218,481 1279,481 1339,480 1400,480 1461,479 1522,478"/>
+                <TextEquiv>
+                    <Unicode>ſtris. Hinc eſt quòd Paulus idem omnibus ſuis periculis &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l8" custom="readingOrder {index:7;}">
+                <Coords points="301,558 1459,557 1526,543 1526,495 301,505"/>
+                <Baseline points="309,536 369,536 430,536 490,536 551,536 611,536 672,536 732,536 793,536 853,536 914,536 974,536 1035,536 1095,536 1156,536 1216,536 1277,535 1337,535 1398,535 1458,535 1519,535"/>
+                <TextEquiv>
+                    <Unicode>aduerſis præfert ſolicitudinem omnium Eccleſiarum. Quis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l9" custom="readingOrder {index:8;}">
+                <Coords points="305,596 1433,608 1518,594 1518,547 305,557"/>
+                <Baseline points="313,591 372,590 432,590 492,590 552,590 612,590 672,590 731,590 791,590 851,590 911,590 971,590 1031,590 1091,590 1150,589 1210,589 1270,589 1330,588 1390,588 1450,587 1510,586"/>
+                <TextEquiv>
+                    <Unicode>enim, inquit, infirmatur, &amp; ego non infirmor? Hinc eſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l10" custom="readingOrder {index:9;}">
+                <Coords points="311,668 1382,661 1517,649 1517,594 310,605"/>
+                <Baseline points="318,646 377,645 437,644 496,644 556,644 615,644 675,644 734,644 794,644 853,644 913,644 973,644 1032,644 1092,643 1151,643 1211,643 1270,642 1330,642 1389,641 1449,640 1509,638"/>
+                <TextEquiv>
+                    <Unicode>quòd presbyteris Epheſiorum dicit, Attendite vobis &amp; vni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l11" custom="readingOrder {index:10;}">
+                <Coords points="300,722 1488,711 1517,658 300,670"/>
+                <Baseline points="307,697 367,697 427,698 487,698 547,698 607,698 667,698 727,698 787,698 847,698 908,698 968,697 1028,697 1088,697 1148,696 1208,696 1268,696 1328,695 1388,695 1448,694 1509,694"/>
+                <TextEquiv>
+                    <Unicode>uerſo gregi. Vtinam hæc attenderent Prælati, ſe nimirum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l12" custom="readingOrder {index:11;}">
+                <Coords points="307,762 1506,758 1441,701 307,718"/>
+                <Baseline points="315,751 372,751 430,751 488,751 546,751 604,751 662,751 720,751 778,752 836,752 894,752 951,751 1009,751 1067,751 1125,751 1183,750 1241,749 1299,748 1357,747 1415,746 1498,744"/>
+                <TextEquiv>
+                    <Unicode>eſſe miniſtros, non dominos. Sed indignum, inquis, eſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l13" custom="readingOrder {index:12;}">
+                <Coords points="306,825 1499,815 1498,759 306,770"/>
+                <Baseline points="313,804 371,804 430,805 489,805 548,805 607,805 666,805 725,805 784,805 843,806 902,806 960,806 1019,805 1078,805 1137,805 1196,804 1255,804 1314,803 1373,802 1432,801 1491,800"/>
+                <TextEquiv>
+                    <Unicode>ſummos principes his rebus leuiculis occupari. An tibi vi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l14" custom="readingOrder {index:13;}">
+                <Coords points="314,881 1506,861 1472,807 314,822"/>
+                <Baseline points="322,858 380,858 439,858 498,859 557,859 616,859 674,859 733,859 792,859 851,859 910,859 968,859 1027,859 1086,858 1145,858 1204,857 1262,857 1321,856 1380,855 1439,854 1498,853"/>
+                <TextEquiv>
+                    <Unicode>dentur res leuiculæ, quę filius Dei non dedignatus eſt obi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l15" custom="readingOrder {index:14;}">
+                <Coords points="297,933 1464,934 1508,928 1508,862 297,884"/>
+                <Baseline points="305,912 364,912 424,912 484,913 544,913 604,913 663,913 723,913 783,913 843,912 903,912 962,912 1022,912 1082,912 1142,911 1202,911 1261,911 1321,910 1381,910 1441,909 1501,909"/>
+                <TextEquiv>
+                    <Unicode>re? Deinde etiam ob id Apoſtolos de fide interrogat: opor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l16" custom="readingOrder {index:15;}">
+                <Coords points="306,977 1511,966 1480,919 306,928"/>
+                <Baseline points="314,966 373,966 432,966 492,966 551,966 611,966 670,966 730,966 789,966 849,966 908,966 967,966 1027,966 1086,965 1146,965 1205,964 1265,964 1324,963 1384,962 1443,961 1503,959"/>
+                <TextEquiv>
+                    <Unicode>tebat enim apud eos, per quos ſtatuerat mundum innoua-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l17" custom="readingOrder {index:16;}">
+                <Coords points="311,1028 1441,1042 1496,1032 1496,972 311,986"/>
+                <Baseline points="318,1022 376,1021 435,1020 493,1020 552,1020 610,1020 669,1020 727,1020 786,1020 844,1020 903,1020 961,1020 1020,1020 1078,1019 1137,1019 1195,1018 1254,1017 1312,1016 1371,1015 1429,1014 1488,1012"/>
+                <TextEquiv>
+                    <Unicode>re, concordem &amp; conſentientem eſſe de Chriſto profeſſio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l18" custom="readingOrder {index:17;}">
+                <Coords points="314,1081 1519,1088 1485,1028 314,1040"/>
+                <Baseline points="322,1073 381,1073 440,1073 500,1073 559,1073 619,1073 678,1073 738,1073 797,1073 857,1073 916,1073 975,1073 1035,1073 1094,1073 1154,1073 1213,1072 1273,1072 1332,1071 1392,1071 1451,1070 1511,1069"/>
+                <TextEquiv>
+                    <Unicode>nem &amp; fidem: alioqui quis eis credidiſſet, ſi non concor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l19" custom="readingOrder {index:18;}">
+                <Coords points="304,1132 1503,1141 1521,1095 303,1090"/>
+                <Baseline points="311,1125 371,1126 431,1126 491,1127 551,1127 611,1127 671,1127 732,1128 792,1128 852,1127 912,1127 972,1127 1032,1127 1092,1127 1153,1126 1213,1126 1273,1125 1333,1124 1393,1124 1453,1123 1514,1122"/>
+                <TextEquiv>
+                    <Unicode>diter prędicaſſent? Quid enim huiuſmodi diſſenſiones ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l20" custom="readingOrder {index:19;}">
+                <Coords points="317,1198 1520,1190 1485,1132 317,1134"/>
+                <Baseline points="325,1181 384,1181 443,1180 503,1180 562,1180 622,1180 681,1180 740,1180 800,1180 859,1180 919,1180 978,1180 1037,1180 1097,1180 1156,1180 1216,1180 1275,1179 1334,1179 1394,1178 1453,1178 1513,1177"/>
+                <TextEquiv>
+                    <Unicode>li proferant, infeliciſſima tempora noſtra docent. Quot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l21" custom="readingOrder {index:20;}">
+                <Coords points="312,1243 1284,1257 1497,1246 1509,1193 312,1194"/>
+                <Baseline points="319,1236 378,1235 437,1234 496,1234 555,1234 614,1234 673,1234 732,1234 791,1234 850,1234 910,1234 969,1234 1028,1234 1087,1234 1146,1234 1205,1234 1264,1233 1323,1232 1382,1232 1441,1230 1501,1229"/>
+                <TextEquiv>
+                    <Unicode>enim conuitia, quot ſcandala ex hoc fonte naſcuntur? Imo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l22" custom="readingOrder {index:21;}">
+                <Coords points="306,1300 1518,1301 1517,1253 1467,1238 306,1259"/>
+                <Baseline points="314,1288 373,1288 433,1288 493,1288 553,1288 613,1288 672,1288 732,1288 792,1289 852,1289 912,1289 971,1289 1031,1289 1091,1288 1151,1288 1211,1288 1270,1287 1330,1287 1390,1286 1450,1285 1510,1284"/>
+                <TextEquiv>
+                    <Unicode>quod maius eſt, propter noſtras diſſenſiones, ipſum Dei ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l23" custom="readingOrder {index:22;}">
+                <Coords points="305,1363 1517,1344 1516,1302 1392,1291 305,1300"/>
+                <Baseline points="313,1342 372,1342 432,1341 492,1341 552,1341 612,1341 671,1341 731,1341 791,1342 851,1342 911,1342 970,1342 1030,1342 1090,1342 1150,1341 1210,1341 1269,1340 1329,1340 1389,1339 1449,1338 1509,1336"/>
+                <TextEquiv>
+                    <Unicode>bum, ipſe Chriſtus male audit. Ac vere mirandum eſt, imo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l24" custom="readingOrder {index:23;}">
+                <Coords points="315,1407 1301,1416 1508,1400 1508,1348 315,1362"/>
+                <Baseline points="323,1395 381,1395 440,1394 499,1394 558,1394 617,1394 676,1394 734,1394 793,1395 852,1395 911,1395 970,1395 1029,1395 1088,1395 1146,1395 1205,1394 1264,1394 1323,1393 1382,1393 1441,1392 1500,1391"/>
+                <TextEquiv>
+                    <Unicode>deflendum quòd tantopere nobis diſſenſiones placeant, cū</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l25" custom="readingOrder {index:24;}">
+                <Coords points="309,1463 1509,1468 1509,1410 308,1405"/>
+                <Baseline points="316,1450 375,1449 434,1448 493,1448 553,1448 612,1448 671,1448 731,1449 790,1449 849,1449 909,1449 968,1450 1027,1450 1086,1449 1146,1449 1205,1448 1264,1448 1324,1446 1383,1445 1442,1443 1502,1440"/>
+                <TextEquiv>
+                    <Unicode>tamen vnum habeamus Deum, vnum Chriſtum, vnum ba-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l26" custom="readingOrder {index:25;}">
+                <Coords points="322,1519 1524,1520 1524,1469 322,1473"/>
+                <Baseline points="329,1503 388,1503 447,1503 507,1503 566,1503 625,1503 685,1503 744,1503 803,1503 863,1503 922,1503 981,1503 1041,1503 1100,1503 1159,1503 1219,1502 1278,1502 1337,1501 1397,1500 1456,1499 1516,1498"/>
+                <TextEquiv>
+                    <Unicode>ptiſma. Quid tam crebro Paulus admonet, quàm vt idem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l27" custom="readingOrder {index:26;}">
+                <Coords points="309,1573 1513,1569 1465,1505 309,1527"/>
+                <Baseline points="317,1555 376,1556 435,1556 495,1556 554,1556 614,1557 673,1557 732,1557 792,1557 851,1557 911,1557 970,1557 1029,1557 1089,1557 1148,1556 1208,1556 1267,1555 1326,1555 1386,1553 1445,1553 1505,1551"/>
+                <TextEquiv>
+                    <Unicode>ſapiamus? Si qua, inquit, conſolatio in Chriſto, implete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l28" custom="readingOrder {index:27;}">
+                <Coords points="313,1636 1509,1627 1510,1568 313,1585"/>
+                <Baseline points="321,1611 380,1610 439,1610 498,1610 557,1610 616,1610 675,1610 734,1611 793,1611 852,1611 912,1611 971,1610 1030,1610 1089,1610 1148,1610 1207,1609 1266,1608 1325,1608 1384,1606 1443,1605 1503,1604"/>
+                <TextEquiv>
+                    <Unicode>gaudium meum, vt idem ſentiatis, &amp;c. Atque vtinam hæc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l29" custom="readingOrder {index:28;}">
+                <Coords points="307,1677 1514,1680 1514,1626 307,1636"/>
+                <Baseline points="315,1665 374,1664 434,1664 493,1664 553,1664 612,1664 672,1664 731,1664 791,1664 850,1664 910,1664 970,1664 1029,1664 1089,1664 1148,1663 1208,1663 1267,1662 1327,1661 1386,1660 1446,1659 1506,1657"/>
+                <TextEquiv>
+                    <Unicode>attenderemus. Verum ſi nunc Paulus adeſſet, ac tot ſectas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l30" custom="readingOrder {index:29;}">
+                <Coords points="315,1735 1499,1739 1511,1673 315,1681"/>
+                <Baseline points="323,1719 382,1719 441,1719 500,1719 559,1719 618,1719 677,1718 736,1718 795,1718 854,1718 913,1718 972,1717 1031,1717 1090,1717 1149,1716 1208,1716 1267,1715 1326,1714 1385,1713 1444,1713 1503,1712"/>
+                <TextEquiv>
+                    <Unicode>videret in Germaniæ ciuitatibus, quid aliud diceret, quàm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l31" custom="readingOrder {index:30;}">
+                <Coords points="307,1803 1515,1786 1515,1744 307,1746"/>
+                <Baseline points="314,1773 373,1773 433,1772 492,1772 552,1772 612,1772 671,1772 731,1772 791,1772 850,1772 910,1773 970,1772 1029,1772 1089,1772 1149,1772 1208,1771 1268,1770 1328,1769 1387,1768 1447,1766 1507,1764"/>
+                <TextEquiv>
+                    <Unicode>quod Corinthijs dixit, Gratias ago Deo meo, quòd in o-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l32" custom="readingOrder {index:31;}">
+                <Coords points="313,1836 1360,1848 1518,1793 313,1802"/>
+                <Baseline points="321,1827 380,1826 439,1825 499,1825 558,1825 618,1825 677,1825 737,1825 796,1825 856,1826 915,1826 974,1826 1034,1826 1093,1826 1153,1825 1212,1825 1272,1824 1331,1823 1391,1822 1450,1820 1510,1818"/>
+                <TextEquiv>
+                    <Unicode>mnibus diuites facti eſtis. Sed obſecro vos fratres per no-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l33" custom="readingOrder {index:32;}">
+                <Coords points="314,1889 1497,1891 1511,1825 314,1851"/>
+                <Baseline points="321,1880 380,1880 439,1880 498,1880 557,1880 616,1880 675,1880 734,1880 793,1880 852,1880 912,1880 971,1880 1030,1880 1089,1879 1148,1879 1207,1878 1266,1877 1325,1876 1384,1875 1443,1873 1503,1871"/>
+                <TextEquiv>
+                    <Unicode>men Domini Ieſu, vt idipſum dicatis omnes. Audio enim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l34" custom="readingOrder {index:33;}">
+                <Coords points="309,1949 1516,1949 1515,1889 1393,1877 308,1894"/>
+                <Baseline points="317,1934 376,1934 436,1933 495,1933 555,1933 614,1933 674,1933 733,1933 793,1933 852,1933 912,1933 971,1933 1031,1933 1090,1933 1150,1932 1209,1931 1269,1930 1328,1929 1388,1927 1447,1926 1507,1924"/>
+                <TextEquiv>
+                    <Unicode>inter vos eſſe ſchiſmata. Hic enim dicit, Ego ſum Luthe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l35" custom="readingOrder {index:34;}">
+                <Coords points="314,2006 1508,1997 1508,1946 313,1956"/>
+                <Baseline points="321,1988 383,1988 445,1988 507,1988 569,1987 631,1987 693,1987 755,1987 817,1986 879,1986 941,1986 1003,1986 1065,1985 1127,1985 1189,1984 1251,1984 1313,1983 1375,1982 1437,1982 1500,1981"/>
+                <TextEquiv>
+                    <Unicode>ri, alter, ego ſum Caluini. Cum autem huiuſmodi conten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l36" custom="readingOrder {index:35;}">
+                <Coords points="319,2064 1322,2063 1516,2052 1516,2002 318,2007"/>
+                <Baseline points="326,2042 385,2041 444,2041 503,2041 562,2040 621,2040 680,2040 740,2040 799,2040 858,2041 917,2041 976,2041 1035,2040 1094,2040 1154,2040 1213,2039 1272,2038 1331,2037 1390,2036 1449,2034 1509,2032"/>
+                <TextEquiv>
+                    <Unicode>tiones inter vos habeatis, nōne carnales eſtis? Quid enim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l37" custom="readingOrder {index:36;}">
+                <Coords points="313,2106 1514,2096 1484,2040 313,2069"/>
+                <Baseline points="321,2094 380,2094 439,2094 498,2093 558,2093 617,2093 676,2093 735,2093 795,2093 854,2093 913,2092 972,2092 1032,2092 1091,2092 1150,2092 1209,2091 1269,2091 1328,2090 1387,2089 1446,2088 1506,2088"/>
+                <TextEquiv>
+                    <Unicode>eſt Lutherus, quid Caluinus? Miniſtri Satanæ, per quos ſe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l38" custom="readingOrder {index:37;}">
+                <Coords points="306,2153 1326,2167 1497,2156 1520,2117 305,2106"/>
+                <Baseline points="314,2147 373,2147 433,2147 493,2147 553,2147 613,2147 673,2148 733,2148 793,2148 853,2148 913,2148 972,2148 1032,2148 1092,2148 1152,2147 1212,2146 1272,2145 1332,2144 1392,2142 1452,2141 1512,2138"/>
+                <TextEquiv>
+                    <Unicode>ducti eſtis, &amp;c. Demum de fide Apoſtolos interrogat Chri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l39" custom="readingOrder {index:38;}">
+                <Coords points="309,2210 1514,2215 1491,2150 309,2153"/>
+                <Baseline points="317,2199 375,2199 434,2200 493,2200 552,2200 611,2201 670,2201 729,2201 788,2202 847,2202 906,2202 964,2202 1023,2202 1082,2201 1141,2201 1200,2200 1259,2200 1318,2199 1377,2198 1436,2197 1506,2201"/>
+                <TextEquiv>
+                    <Unicode>ſtus, vt doceret nihil nobis firmius eſſe debere quàm fidē,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rP4zs_1l40" custom="readingOrder {index:39;}">
+                <Coords points="317,2292 636,2259 1512,2285 1512,2214 1476,2205 317,2214"/>
+                <Baseline points="325,2254 387,2254 449,2255 511,2255 573,2256 635,2256 697,2257 759,2257 821,2257 883,2257 945,2257 1007,2257 1069,2257 1131,2256 1193,2255 1255,2254 1317,2253 1379,2252 1441,2250 1504,2248"/>
+                <TextEquiv>
+                    <Unicode>eamq́; ſubinde fouere ac confirmare. Sed audi quomodo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zatus. Illic ergo Chriſtus interrogauiti diſcipulos. Primo
+enim voluit periculum facere, quantum profeciſſent ex tot
+ſermonibus ac miraculis, &amp; an aliquid ſublimius de ipſo
+ſentirent, quàm vulgus: quo nimirum docuit paſtores, vt
+ſoliciti ſint de plebis fide. Ob eam enim cauſam Paulus
+aſſerit ipſos rationem reddituros Deo pro animabus no-
+ſtris. Hinc eſt quòd Paulus idem omnibus ſuis periculis &amp;
+aduerſis præfert ſolicitudinem omnium Eccleſiarum. Quis
+enim, inquit, infirmatur, &amp; ego non infirmor? Hinc eſt
+quòd presbyteris Epheſiorum dicit, Attendite vobis &amp; vni
+uerſo gregi. Vtinam hæc attenderent Prælati, ſe nimirum
+eſſe miniſtros, non dominos. Sed indignum, inquis, eſt,
+ſummos principes his rebus leuiculis occupari. An tibi vi
+dentur res leuiculæ, quę filius Dei non dedignatus eſt obi-
+re? Deinde etiam ob id Apoſtolos de fide interrogat: opor
+tebat enim apud eos, per quos ſtatuerat mundum innoua-
+re, concordem &amp; conſentientem eſſe de Chriſto profeſſio-
+nem &amp; fidem: alioqui quis eis credidiſſet, ſi non concor-
+diter prędicaſſent? Quid enim huiuſmodi diſſenſiones ma
+li proferant, infeliciſſima tempora noſtra docent. Quot
+enim conuitia, quot ſcandala ex hoc fonte naſcuntur? Imo
+quod maius eſt, propter noſtras diſſenſiones, ipſum Dei ver
+bum, ipſe Chriſtus male audit. Ac vere mirandum eſt, imo
+deflendum quòd tantopere nobis diſſenſiones placeant, cū
+tamen vnum habeamus Deum, vnum Chriſtum, vnum ba-
+ptiſma. Quid tam crebro Paulus admonet, quàm vt idem
+ſapiamus? Si qua, inquit, conſolatio in Chriſto, implete
+gaudium meum, vt idem ſentiatis, &amp;c. Atque vtinam hæc
+attenderemus. Verum ſi nunc Paulus adeſſet, ac tot ſectas
+videret in Germaniæ ciuitatibus, quid aliud diceret, quàm
+quod Corinthijs dixit, Gratias ago Deo meo, quòd in o-
+mnibus diuites facti eſtis. Sed obſecro vos fratres per no-
+men Domini Ieſu, vt idipſum dicatis omnes. Audio enim
+inter vos eſſe ſchiſmata. Hic enim dicit, Ego ſum Euthe-
+ris alter, ego ſum Caluini. Cum autem huiuſmodi conten
+tiones inter vos habeatis, nōne carnales eſtis? Quid enim
+eſt Lutherus, quid Caluinus? Miniſtri Satanæ, per quos ſe-
+ducti eſtis, &amp;c. Demum de fide Apoſtolos interrogat Chri-
+ſtus, vt doceret nihil nobis firmius eſſe debere quàm fidē,
+eamq́; ſubinde fouere ac confirmare. Sed audi quomodo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ferus_2020-06-18_printed,Latin,1500s(htr_id=24731)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-08-11T16:20:40</Created>
+        <LastChange>2020-08-11T16:38:10.033+02:00</LastChange>
+        <TranskribusMetadata docId="291391" pageId="11614488" pageNr="430" tsid="36624655" status="GT" userId="18841" imgUrl="https://files.transkribus.eu/Get?id=UPVSZGHYDVEBGVRQIQNJNYFM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DSAMQPCSBXZIREJFWSCMXGDD" imageId="7994044"/>
+    </Metadata>
+    <Page imageFilename="Wild1559o-Mt,Mainz,BW,VD16W2965,__0429.png" imageWidth="2085" imageHeight="3451">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1635500048388" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r9sLO_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r9sLO_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="169,324 150,2988 1717,2988 1758,334"/>
+            <TextLine id="r9sLO_1l1" custom="readingOrder {index:0;}">
+                <Coords points="172,377 1761,380 1495,312 172,320"/>
+                <Baseline points="182,372 260,374 338,375 417,375 495,375 574,375 652,375 731,375 809,375 888,375 966,375 1044,375 1123,375 1201,375 1280,375 1358,375 1437,377 1515,377 1594,378 1672,380 1751,381"/>
+                <TextEquiv>
+                    <Unicode>liciſsima tēpora noſtra docēt. Quot em̄ conuitia, quot ſcādala ex hoc fonte na-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l2" custom="readingOrder {index:1;}">
+                <Coords points="174,442 1750,463 1750,388 174,391"/>
+                <Baseline points="183,431 260,431 338,431 416,429 494,429 572,429 650,429 727,429 805,429 883,429 961,429 1039,429 1117,429 1195,429 1272,430 1350,431 1428,431 1506,432 1584,433 1662,434 1740,435"/>
+                <TextEquiv>
+                    <Unicode>ſcuntur? Imò quod maius eſt, propter noſtras diſſenſiones, ipſum Dei verbū, ipſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l3" custom="readingOrder {index:2;}">
+                <Coords points="184,493 1748,500 1748,463 1574,441 184,448"/>
+                <Baseline points="194,486 271,486 348,485 425,485 503,485 580,485 657,485 734,485 812,483 889,483 966,483 1043,483 1121,483 1198,483 1275,485 1352,485 1430,485 1507,486 1584,486 1661,488 1739,489"/>
+                <TextEquiv>
+                    <Unicode>Chriſtus malè audit. Ac verè mirandū eſt, imò deflendū ꝙ tātopere nobis diſſen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l4" custom="readingOrder {index:3;}">
+                <Coords points="172,548 1748,564 1748,509 1654,497 172,505"/>
+                <Baseline points="182,539 259,539 337,539 415,540 493,540 570,540 648,540 726,539 804,539 881,539 959,539 1037,539 1115,539 1192,539 1270,539 1348,539 1426,540 1503,541 1581,542 1659,543 1737,545"/>
+                <TextEquiv>
+                    <Unicode>ſiones placeant, cū tn̄ vnū habeamus Deum, vnū Chriſtū, vnū baptiſma. Quid tam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l5" custom="readingOrder {index:4;}">
+                <Coords points="185,605 1759,605 1679,554 185,564"/>
+                <Baseline points="195,593 271,594 348,594 424,594 501,594 578,594 654,594 731,594 808,594 884,594 961,594 1038,594 1114,594 1191,594 1268,594 1344,594 1421,596 1498,596 1574,597 1651,598 1749,600"/>
+                <TextEquiv>
+                    <Unicode>crebrò Paulus admonet, ꝗ̃ vt idē ſapiamus? Si qua, inꝗt, cōſolatio in Chriſto, im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l6" custom="readingOrder {index:5;}">
+                <Coords points="175,662 1755,662 1755,611 1627,606 175,611"/>
+                <Baseline points="185,647 263,647 341,648 419,648 497,648 575,648 653,648 731,647 809,647 887,647 965,647 1043,647 1121,647 1199,647 1277,647 1355,648 1433,648 1511,650 1589,651 1667,653 1746,654"/>
+                <TextEquiv>
+                    <Unicode>plete gaudiū meū, vt idē ſentiatis, &amp;c. Atq; vtinā hæc attenderemus. Verū ſi nunc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l7" custom="readingOrder {index:6;}">
+                <Coords points="179,719 1651,731 1745,723 1746,664 179,666"/>
+                <Baseline points="189,704 266,704 343,704 421,704 498,704 575,704 653,702 730,702 807,702 885,702 962,702 1039,702 1117,702 1194,702 1271,704 1349,704 1426,704 1503,705 1581,707 1658,707 1736,708"/>
+                <TextEquiv>
+                    <Unicode>Paul⁹ adeſſet, ac tot ſectas videret in ſingulis ciuitatib⁹, ꝗd aliud diceret, ꝗ̃ quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l8" custom="readingOrder {index:7;}">
+                <Coords points="189,777 1755,764 1710,715 189,717"/>
+                <Baseline points="200,759 277,759 355,758 433,758 511,758 589,758 667,758 744,758 822,758 900,758 978,758 1056,758 1134,758 1212,758 1289,758 1367,758 1445,759 1523,759 1601,761 1679,761 1746,764"/>
+                <TextEquiv>
+                    <Unicode>Corinthijs dixit: Gratias ago Deo meo, ꝙ in oībus diuites facti eſtis. Sed obſe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l9" custom="readingOrder {index:8;}">
+                <Coords points="182,828 1752,823 1752,784 1652,770 182,775"/>
+                <Baseline points="192,813 269,813 347,813 424,813 502,813 579,813 657,813 734,813 812,812 889,812 967,812 1045,812 1122,812 1200,812 1277,812 1355,812 1432,813 1510,813 1587,813 1665,815 1743,815"/>
+                <TextEquiv>
+                    <Unicode>cro vos fratres per nomen Dn̄i Ieſu, vt idipſum dicatis omnes. Audio enim inter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l10" custom="readingOrder {index:9;}">
+                <Coords points="175,877 1749,884 1749,835 1522,819 175,826"/>
+                <Baseline points="186,866 263,866 341,867 419,867 496,867 574,867 652,867 729,867 807,866 885,866 963,866 1040,866 1118,866 1196,866 1273,866 1351,867 1429,867 1506,867 1584,869 1662,870 1740,872"/>
+                <TextEquiv>
+                    <Unicode>vos eſſe ſchiſmata. Hic enim dicit: Ego ſum Pauli, alter ego ſum Apollo. Cùm au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l11" custom="readingOrder {index:10;}">
+                <Coords points="168,925 1746,926 1669,879 168,889"/>
+                <Baseline points="177,920 259,921 341,921 423,921 505,921 587,921 669,921 751,921 833,921 915,921 997,921 1079,921 1161,921 1243,921 1325,921 1407,921 1489,921 1571,923 1653,923 1736,924"/>
+                <TextEquiv>
+                    <Unicode>tē huiuſmodi cōtētiones inter vos habeatis, nónne carnales eſtis? Quid em̄ eſt A-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l12" custom="readingOrder {index:11;}">
+                <Coords points="175,1001 1741,1000 1741,945 1676,932 175,944"/>
+                <Baseline points="185,977 262,978 339,978 416,978 494,978 571,978 648,977 726,977 803,977 880,977 958,977 1035,977 1112,977 1189,977 1267,977 1344,977 1421,977 1499,977 1576,978 1653,978 1731,978"/>
+                <TextEquiv>
+                    <Unicode>pollo, quid Paul⁹? Miniſtri, per quos credidiſtis, &amp;c. Demū de fide Apoſtolos in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l13" custom="readingOrder {index:12;}">
+                <Coords points="168,1040 1746,1036 1626,985 168,1001"/>
+                <Baseline points="177,1031 255,1031 334,1031 413,1031 492,1031 570,1031 649,1031 728,1031 807,1031 885,1031 964,1031 1043,1031 1122,1031 1200,1031 1279,1031 1358,1031 1437,1032 1515,1032 1594,1032 1673,1032 1735,1036"/>
+                <TextEquiv>
+                    <Unicode>terrogat Chriſtus, vt doceret nihil nobis antiquius eſſe debere ꝗ̃ fidē, eāq́; ſubin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l14" custom="readingOrder {index:13;}">
+                <Coords points="173,1102 1737,1111 1737,1042 173,1049"/>
+                <Baseline points="182,1085 259,1085 336,1085 413,1085 491,1085 568,1085 645,1085 723,1085 800,1085 877,1086 955,1086 1032,1086 1109,1086 1186,1086 1264,1086 1341,1088 1418,1088 1496,1088 1573,1089 1650,1091 1728,1091"/>
+                <TextEquiv>
+                    <Unicode>de renouare ac confirmare. Sed audi quomodo interroget: Quē dicunt homines fi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l15" custom="readingOrder {index:14;}">
+                <Coords points="178,1168 1748,1156 1685,1103 178,1097"/>
+                <Baseline points="188,1148 264,1146 341,1146 417,1145 494,1145 570,1145 647,1145 723,1145 800,1145 876,1145 953,1145 1030,1145 1106,1145 1183,1145 1259,1146 1336,1146 1412,1146 1489,1148 1565,1148 1642,1149 1738,1154"/>
+                <TextEquiv>
+                    <Unicode>liū Dei eſſe? Sūt qui dicant Chriſtum ob id dictum filium hominis, quòd ex vir-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l16" custom="readingOrder {index:15;}">
+                <Coords points="178,1227 1739,1241 1723,1159 179,1168"/>
+                <Baseline points="189,1205 270,1205 351,1205 432,1203 513,1203 594,1203 675,1203 756,1202 837,1202 918,1202 999,1202 1080,1202 1161,1203 1242,1203 1323,1203 1404,1205 1485,1205 1566,1206 1647,1208 1728,1209"/>
+                <TextEquiv>
+                    <Unicode>gine natus ſit: id quanquam verum ſit, quòd è virgine natus eſt, non tamen ob id</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l17" custom="readingOrder {index:16;}">
+                <Coords points="180,1270 1742,1267 1681,1214 180,1227"/>
+                <Baseline points="189,1259 266,1259 343,1259 420,1259 497,1259 575,1259 652,1258 729,1257 806,1257 883,1257 961,1257 1038,1257 1115,1257 1192,1257 1269,1259 1347,1259 1424,1260 1501,1260 1578,1262 1655,1263 1733,1265"/>
+                <TextEquiv>
+                    <Unicode>filius hominis dicitur: quòd ex eo patet, vbi enim nos in ſcriptura legimus, Fi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l18" custom="readingOrder {index:17;}">
+                <Coords points="172,1325 1750,1324 1695,1273 172,1268"/>
+                <Baseline points="182,1313 258,1314 335,1314 411,1314 488,1314 564,1314 641,1313 717,1313 794,1313 870,1313 947,1313 1023,1313 1100,1313 1176,1313 1253,1313 1329,1314 1406,1314 1482,1316 1559,1316 1635,1317 1741,1320"/>
+                <TextEquiv>
+                    <Unicode>lius hominis, (ait Hieronymus) in Hebræo habetur, Filius Adam. Filij autem A-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l19" custom="readingOrder {index:18;}">
+                <Coords points="171,1376 1753,1400 1753,1320 171,1331"/>
+                <Baseline points="180,1367 258,1367 336,1368 414,1368 492,1368 570,1368 648,1368 727,1368 805,1367 883,1367 961,1367 1039,1367 1117,1367 1195,1367 1274,1367 1352,1368 1430,1368 1508,1370 1586,1371 1664,1374 1743,1377"/>
+                <TextEquiv>
+                    <Unicode>dam vel hominum, pro hominibus frequenter accipiuntur. Cum itaque Chri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l20" custom="readingOrder {index:19;}">
+                <Coords points="164,1441 1575,1450 1732,1438 1732,1383 164,1392"/>
+                <Baseline points="174,1421 251,1421 328,1422 406,1422 483,1422 561,1422 638,1422 715,1422 793,1421 870,1421 948,1421 1025,1421 1102,1421 1180,1421 1257,1422 1335,1422 1412,1422 1489,1424 1567,1425 1644,1426 1722,1428"/>
+                <TextEquiv>
+                    <Unicode>ſtus ſe filium hominis dicit, ſignificat ſe verè hominem, &amp; quod ex eius poſteris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l21" custom="readingOrder {index:20;}">
+                <Coords points="169,1503 1706,1503 1732,1444 169,1445"/>
+                <Baseline points="179,1476 256,1476 333,1478 410,1478 487,1478 564,1478 641,1478 719,1478 796,1476 873,1476 950,1476 1027,1475 1104,1475 1181,1475 1259,1475 1336,1476 1413,1476 1490,1478 1567,1479 1644,1481 1722,1484"/>
+                <TextEquiv>
+                    <Unicode>prognatus ſit, ex quo prodierunt &amp; cæteri. Atque omnino id eſt quòd Paulus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l22" custom="readingOrder {index:21;}">
+                <Coords points="172,1549 1602,1561 1755,1526 1755,1481 172,1507"/>
+                <Baseline points="182,1533 260,1533 338,1532 416,1530 494,1530 572,1530 650,1530 729,1530 807,1530 885,1530 963,1530 1041,1530 1119,1530 1197,1532 1276,1532 1354,1532 1432,1532 1510,1532 1588,1532 1666,1532 1745,1532"/>
+                <TextEquiv>
+                    <Unicode>dicit: In ſimilitudinem hominum factus, hoc eſt, perinde vt quiſque è vulgo ho-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l23" custom="readingOrder {index:22;}">
+                <Coords points="174,1600 1730,1598 1626,1543 174,1550"/>
+                <Baseline points="183,1586 259,1586 336,1587 413,1586 490,1586 567,1586 644,1586 721,1586 798,1586 875,1584 952,1584 1028,1584 1105,1584 1182,1584 1259,1584 1336,1584 1413,1586 1490,1586 1567,1587 1644,1589 1721,1590"/>
+                <TextEquiv>
+                    <Unicode>minum, abſque tamen peccato. Quoties autem Chriſtus filium hominis ſe vo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l24" custom="readingOrder {index:23;}">
+                <Coords points="165,1651 1727,1648 1727,1607 1641,1597 165,1607"/>
+                <Baseline points="176,1643 253,1641 330,1641 407,1641 484,1640 561,1640 638,1640 715,1640 792,1640 869,1640 947,1640 1024,1640 1101,1640 1178,1640 1255,1640 1332,1641 1409,1641 1486,1641 1563,1643 1640,1643 1718,1644"/>
+                <TextEquiv>
+                    <Unicode>cat, toties nobis ſuam humilitatem iuxtà ac bonitatem commendat, qui no-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l25" custom="readingOrder {index:24;}">
+                <Coords points="174,1713 1727,1702 1709,1651 175,1655"/>
+                <Baseline points="185,1695 261,1695 338,1695 414,1695 491,1695 568,1695 644,1695 721,1694 798,1694 874,1694 951,1694 1028,1694 1104,1694 1181,1694 1258,1694 1334,1695 1411,1695 1488,1695 1564,1697 1641,1698 1718,1700"/>
+                <TextEquiv>
+                    <Unicode>ſtræ ſalutis gratia eò vſque ſeſe demiſerit, vt nihil niſi homo haberetur, ac infi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l26" custom="readingOrder {index:25;}">
+                <Coords points="164,1759 1665,1777 1738,1765 1738,1706 164,1716"/>
+                <Baseline points="173,1751 250,1751 328,1751 406,1751 484,1749 561,1749 639,1749 717,1749 795,1749 872,1748 950,1748 1028,1748 1106,1749 1183,1749 1261,1749 1339,1751 1417,1752 1494,1752 1572,1754 1650,1757 1728,1758"/>
+                <TextEquiv>
+                    <Unicode>mo quoque inferior eſſe voluerit. Cùm itaque dicit: Quem dicunt homines &amp;c?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l27" custom="readingOrder {index:26;}">
+                <Coords points="167,1831 1739,1825 1692,1770 167,1761"/>
+                <Baseline points="176,1809 253,1809 331,1809 409,1809 486,1808 564,1808 642,1808 719,1808 797,1806 875,1806 953,1806 1030,1806 1108,1806 1186,1806 1263,1808 1341,1808 1419,1809 1496,1810 1574,1812 1652,1814 1730,1815"/>
+                <TextEquiv>
+                    <Unicode>ſenſus eſt, Quid homines ſuſpicantur de me, quem hominem vident, &amp; tamen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l28" custom="readingOrder {index:27;}">
+                <Coords points="172,1877 1732,1881 1732,1826 1599,1819 172,1830"/>
+                <Baseline points="182,1863 259,1863 336,1863 413,1863 490,1863 567,1862 644,1862 721,1862 798,1862 875,1862 952,1862 1029,1862 1106,1862 1183,1862 1260,1862 1337,1863 1414,1864 1491,1865 1568,1866 1645,1868 1722,1871"/>
+                <TextEquiv>
+                    <Unicode>tanta miracula facientem? Non ignorabat quid de ſe ſentiret vulgus, ſed nobis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l29" custom="readingOrder {index:28;}">
+                <Coords points="161,1922 1733,1936 1704,1877 161,1886"/>
+                <Baseline points="171,1919 248,1919 326,1919 403,1917 481,1917 559,1917 636,1917 714,1917 792,1917 869,1917 947,1916 1025,1917 1102,1917 1180,1917 1258,1917 1335,1918 1413,1919 1491,1920 1568,1920 1646,1922 1724,1923"/>
+                <TextEquiv>
+                    <Unicode>declarare voluit quæ ſit Euangelica fides, quæ ſeruet, quantumq́ue diſtet ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l30" custom="readingOrder {index:29;}">
+                <Coords points="170,1985 1736,1981 1669,1935 170,1930"/>
+                <Baseline points="180,1973 257,1973 335,1973 413,1973 491,1973 569,1971 647,1971 724,1971 802,1970 880,1970 958,1970 1036,1970 1114,1970 1192,1970 1269,1971 1347,1971 1425,1973 1503,1975 1581,1977 1659,1980 1726,1980"/>
+                <TextEquiv>
+                    <Unicode>inconſtanti &amp; varia vulgi ſuſpicione. Oportebat Chriſtū pati, ait Lucas, &amp; præ-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l31" custom="readingOrder {index:30;}">
+                <Coords points="169,2043 1731,2053 1731,1996 1627,1986 169,1992"/>
+                <Baseline points="179,2028 256,2028 333,2028 410,2027 487,2027 564,2027 641,2027 718,2025 795,2025 872,2025 950,2024 1027,2024 1104,2024 1181,2024 1258,2025 1335,2025 1412,2027 1489,2028 1566,2030 1643,2031 1721,2034"/>
+                <TextEquiv>
+                    <Unicode>dicari in nomine eius pœnitentiā, &amp; remiſsionem peccatorū in oēs gentes. Opor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l32" custom="readingOrder {index:31;}">
+                <Coords points="172,2100 1736,2089 1736,2052 1391,2036 172,2047"/>
+                <Baseline points="182,2085 259,2084 337,2084 415,2082 492,2082 570,2082 648,2081 725,2081 803,2081 881,2079 959,2079 1036,2079 1114,2079 1192,2079 1269,2081 1347,2081 1425,2081 1502,2082 1580,2082 1658,2084 1727,2086"/>
+                <TextEquiv>
+                    <Unicode>tebat, inꝗt, prædicari. Ad hoc autem officiū electi ſunt Apoſtoli, vt portarent no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l33" custom="readingOrder {index:32;}">
+                <Coords points="168,2153 1738,2162 1688,2095 169,2100"/>
+                <Baseline points="179,2136 256,2136 333,2136 411,2136 488,2136 566,2136 643,2135 721,2135 798,2135 876,2133 953,2133 1030,2133 1108,2133 1185,2133 1263,2133 1340,2134 1418,2135 1495,2138 1573,2139 1650,2142 1728,2145"/>
+                <TextEquiv>
+                    <Unicode>men Chriſti coram gentibus &amp; regibus, &amp; filijs Iſrael. Hinc Paul⁹ de ſe alijsq́; A-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l34" custom="readingOrder {index:33;}">
+                <Coords points="169,2218 1733,2208 1713,2155 1558,2147 169,2155"/>
+                <Baseline points="179,2193 256,2192 333,2192 410,2190 488,2190 565,2189 642,2189 719,2189 797,2187 874,2187 951,2187 1028,2187 1106,2187 1183,2187 1260,2187 1337,2189 1415,2189 1492,2190 1569,2192 1646,2193 1724,2195"/>
+                <TextEquiv>
+                    <Unicode>poſtolis ait: Legatione fungimur pro Chriſto. Item: Sic nos exiſtimet homo vt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l35" custom="readingOrder {index:34;}">
+                <Coords points="155,2255 1731,2264 1731,2215 1535,2199 155,2218"/>
+                <Baseline points="165,2247 243,2246 322,2246 400,2244 479,2244 558,2243 636,2243 715,2243 793,2243 872,2243 951,2243 1029,2243 1108,2243 1186,2243 1265,2243 1344,2244 1422,2244 1501,2245 1579,2246 1658,2247 1721,2253"/>
+                <TextEquiv>
+                    <Unicode>miniſtros Chriſti. Item: Non prædicamus nos ipſos, ſed Ieſum Chriſtum, nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l36" custom="readingOrder {index:35;}">
+                <Coords points="154,2312 1737,2307 1590,2254 154,2273"/>
+                <Baseline points="164,2303 242,2301 320,2301 398,2301 476,2300 555,2300 633,2298 711,2298 789,2298 867,2297 946,2297 1024,2297 1102,2297 1180,2297 1258,2297 1337,2298 1415,2298 1493,2300 1571,2301 1649,2303 1728,2304"/>
+                <TextEquiv>
+                    <Unicode>autem ſeruos veſtros propter Chriſtum. Et iterū: Quid Paulus? Quid Apollo? Mi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l37" custom="readingOrder {index:36;}">
+                <Coords points="163,2375 1737,2380 1737,2325 1502,2307 163,2320"/>
+                <Baseline points="173,2355 250,2355 327,2355 404,2354 481,2354 558,2354 635,2352 712,2352 789,2351 866,2351 943,2351 1020,2351 1097,2351 1174,2351 1251,2351 1328,2352 1405,2353 1482,2354 1559,2355 1636,2358 1727,2360"/>
+                <TextEquiv>
+                    <Unicode>niſtri eius cui credidiſtis. Vides igitur Apoſtolos ad hoc electos, vt Chriſtum prę</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l38" custom="readingOrder {index:37;}">
+                <Coords points="155,2416 1733,2428 1733,2385 1611,2365 155,2377"/>
+                <Baseline points="164,2412 241,2411 319,2411 397,2409 475,2409 553,2408 631,2408 709,2406 787,2406 865,2406 943,2406 1020,2406 1098,2406 1176,2406 1254,2406 1332,2408 1410,2408 1488,2409 1566,2411 1644,2412 1722,2414"/>
+                <TextEquiv>
+                    <Unicode>dicarent. Quomodo autem prædicarent, quem non cognoſcerent? Neceſſarium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l39" custom="readingOrder {index:38;}">
+                <Coords points="162,2475 1736,2478 1712,2423 162,2422"/>
+                <Baseline points="171,2466 248,2465 326,2465 404,2465 481,2463 559,2463 637,2462 714,2462 792,2462 870,2460 948,2460 1025,2460 1103,2460 1181,2460 1258,2460 1336,2462 1414,2462 1491,2463 1569,2465 1647,2466 1725,2469"/>
+                <TextEquiv>
+                    <Unicode>igitur erat, vt ipſi Chriſtū priùs verè cognoſcerēt. Hinc eſt ꝙ Chriſtus eos ꝗd de ſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l40" custom="readingOrder {index:39;}">
+                <Coords points="165,2530 1733,2526 1733,2479 165,2477"/>
+                <Baseline points="174,2519 251,2520 329,2520 406,2520 484,2520 561,2519 639,2519 716,2519 794,2519 871,2517 949,2517 1026,2517 1104,2517 1181,2517 1259,2517 1336,2517 1414,2519 1491,2519 1569,2520 1646,2522 1724,2523"/>
+                <TextEquiv>
+                    <Unicode>ſentirēt interrogauit. Quē, inquit, dicūt hoīes eße filium hoīs? Vbi obſerua, ꝙ pri⁹</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l41" custom="readingOrder {index:40;}">
+                <Coords points="162,2593 1728,2595 1712,2534 162,2530"/>
+                <Baseline points="171,2577 248,2577 325,2577 403,2577 480,2577 557,2576 635,2576 712,2576 789,2576 867,2575 944,2574 1021,2574 1099,2574 1176,2574 1253,2576 1331,2576 1408,2576 1485,2577 1563,2577 1640,2579 1718,2580"/>
+                <TextEquiv>
+                    <Unicode>interrogauit, ꝗd vulgus hoīm ſentiret, nec tn̄ hîc ſubſtitit, ſed &amp; deinceps ꝗd ipſi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l42" custom="readingOrder {index:41;}">
+                <Coords points="152,2646 1720,2651 1645,2587 152,2599"/>
+                <Baseline points="161,2631 238,2631 315,2631 393,2631 470,2631 548,2631 625,2630 703,2630 780,2630 858,2630 935,2630 1012,2630 1090,2630 1167,2630 1245,2630 1322,2630 1400,2631 1477,2631 1555,2633 1632,2634 1710,2636"/>
+                <TextEquiv>
+                    <Unicode>ſentirēt q̄ſiuit. In reb⁹ em̄ fidei nō ſufficit aliorū opiniones, imò errores recēſere,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l43" custom="readingOrder {index:42;}">
+                <Coords points="166,2708 1600,2714 1732,2704 1732,2647 166,2655"/>
+                <Baseline points="176,2687 253,2687 330,2687 407,2687 485,2685 562,2685 639,2685 717,2685 794,2685 871,2684 949,2684 1026,2684 1103,2684 1180,2684 1258,2684 1335,2685 1412,2685 1490,2685 1567,2687 1644,2687 1722,2688"/>
+                <TextEquiv>
+                    <Unicode>quēadmodum pleriq; faciūt, qui ſe egregiè doctos arbitrantur, ſi aliorū opinio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l44" custom="readingOrder {index:43;}">
+                <Coords points="161,2759 1696,2760 1729,2704 161,2712"/>
+                <Baseline points="170,2742 247,2741 324,2741 402,2741 479,2739 557,2739 634,2739 712,2738 789,2738 867,2738 944,2738 1021,2738 1099,2738 1176,2738 1254,2739 1331,2739 1409,2739 1486,2741 1564,2742 1641,2743 1719,2744"/>
+                <TextEquiv>
+                    <Unicode>nes teneāt, cùm nihil interim certi habeant, nuncq́; hanc, nunc illā opinionē ſe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l45" custom="readingOrder {index:44;}">
+                <Coords points="162,2816 1687,2823 1730,2746 162,2759"/>
+                <Baseline points="171,2796 247,2796 323,2796 400,2795 476,2795 552,2795 629,2793 705,2793 781,2793 858,2792 934,2792 1010,2792 1087,2792 1163,2792 1239,2792 1316,2793 1392,2793 1468,2795 1545,2796 1621,2798 1720,2800"/>
+                <TextEquiv>
+                    <Unicode>quūtur, fluctuantq́; tanquam pueri, omniq́; vento doctrinæ ferūtur. In rebus igi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l46" custom="readingOrder {index:45;}">
+                <Coords points="164,2861 1720,2863 1720,2814 1491,2804 164,2816"/>
+                <Baseline points="173,2850 249,2850 326,2850 403,2849 480,2849 557,2849 634,2847 710,2847 787,2847 864,2846 941,2846 1018,2846 1095,2846 1172,2846 1248,2847 1325,2847 1402,2849 1479,2850 1556,2851 1633,2853 1710,2855"/>
+                <TextEquiv>
+                    <Unicode>tur fidei nō opinionibus fidendum, ſed certum aliquid habeas oportet cui tutò</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l47" custom="readingOrder {index:46;}">
+                <Coords points="161,2915 1723,2919 1676,2862 161,2862"/>
+                <Baseline points="170,2904 247,2904 324,2904 401,2903 478,2903 555,2903 632,2903 710,2901 787,2901 864,2901 941,2901 1018,2901 1095,2901 1172,2901 1250,2903 1327,2903 1404,2903 1481,2904 1558,2906 1635,2907 1713,2909"/>
+                <TextEquiv>
+                    <Unicode>innitaris. Hinc Chriſt⁹ auditis vulgi opinionib⁹, propriā ab Apoſtolis fidē reꝗrit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9sLO_1l48" custom="readingOrder {index:47;}">
+                <Coords points="152,2991 1732,2993 1732,2925 1538,2908 152,2919"/>
+                <Baseline points="162,2963 239,2961 316,2960 393,2959 470,2958 547,2958 624,2958 701,2958 778,2958 855,2958 933,2958 1010,2960 1087,2960 1164,2961 1241,2961 1318,2963 1395,2963 1472,2964 1549,2964 1626,2966 1722,2962"/>
+                <TextEquiv>
+                    <Unicode>Sed nūc apoſtolorū reſponſionē audiamus. Alij (inquiunt) Ioannē Baptistā, alij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>liciſsima tēpora noſtra docēt. Quot em̄ conuitia, quot ſcādala ex hoc fonte na-
+ſcuntur? Imò quod maius eſt, propter noſtras diſſenſiones, ipſum Dei verbū, ipſe
+Chriſtus malè audit. Ac verè mirandū eſt, imò deflendū ꝙ tātopere nobis diſſen-
+ſiones placeant, cū tn̄ vnū habeamus Deum, vnū Chriſtū, vnū baptiſma. Quid tam
+crebrò Paulus admonet, ꝗ̃ vt idē ſapiamus? Si qua, inꝗt, cōſolatio in Chriſto, im-
+plete gaudiū meū, vt idē ſentiatis, &amp;c. Atq; vtinā hæc attenderemus. Verū ſi nunc
+Paul⁹ adeſſet, ac tot ſectas videret in ſingulis ciuitatib⁹, ꝗd aliud diceret, ꝗ̃ quod
+Corinthijs dixit: Gratias ago Deo meo, ꝙ in oībus diuites facti eſtis. Sed obſe-
+cro vos fratres per nomen Dn̄i Ieſu, vt idipſum dicatis omnes. Audio enim inter
+vos eſſe ſchiſmata. Hic enim dicit: Ego ſum Pauli, alter ego ſum Apollo. Cùm au
+tē huiuſmodi cōtētiones inter vos habeatis, nonne carnales eſtis? Quid em̄ eſt A-
+pollo, quid Paul⁹? Miniſtri, per quos credidiſtis, &amp;c. Demū de fide Apoſtolos in-
+terrogat Chriſtus, vt doceret nihil nobis antiquius eſſe debere ꝗ̃ fidē, eāq́; ſubin-
+de renouare ac confirmare. Sed audi quomodo interroget: Quē dicunt homines fi
+liū Dei eſſe? Sūt qui dicant Chriſtum ob id dictum filium hominis, quòd ex vir-
+gine natus ſit: id quanquam verum ſit, quòd è virgine natus eſt, non tamen ob id
+filius hominis dicitur: quòd ex eo patet, vbi enim nos in ſcriptura legimus, Fi-
+lius hominis, (ait Hieronymus) in Hebræo habetur, Filius Adam. Filij autem A-
+dam vel hominum, pro hominibus frequenter accipiuntur. Cum itaque Chri-
+ſtus ſe filium hominis dicit, ſignificat ſe verè hominem, &amp; quod ex eius poſteris
+prognatus ſit, ex quo prodierunt &amp; cæteri. Atque omnino id eſt quòd Paulus
+dicit: In ſimilitudinem hominum factus, hoc eſt, perinde vt quiſque è vulgo ho-
+minum, abſque tamen peccato. Quoties autem Chriſtus filium hominis ſe vo-
+cat, toties nobis ſuam humilitatem iuxta ac bonitatem commendat, qui no-
+ſtræ ſalutis gratia eò vſque ſeſe demiſerit, vt nihil niſi homo haberetur, ac infi-
+mo quoque inferior eſſe voluerit. Cùm itaque dicit: Quem dicunt homines &amp;c?
+ſenſus eſt, Quid homines ſuſpicantur de me, quem hominem vident, &amp; tamen
+tanta miracula facientem? Non ignorabat quid de ſe ſentiret vulgus, ſed nobis
+declarare voluit quæ ſit Euangelica fides, quæ ſeruet, quantumq́ue diſtet ab
+inconſtanti &amp; varia vulgi ſuſpicione. Oportebat Chriſtū pati, ait Lucas, &amp; præ-
+dicari in nomine eius pœnitentiā, &amp; remiſsionem peccatorū in oēs gentes. Opor
+tebat, inꝗt, prædicari. Ad hoc autem officiū electi ſunt Apoſtoli, vt portarent no
+men Chriſti coram gentibus &amp; regibus, &amp; filijs Iſrael. Hinc Paul⁹ de ſe alijsq́; A-
+poſtolis ait: Legatione fungimur pro Chriſto. Item: Sic nos exiſtimet homo vt
+miniſtros Chriſti. Item: Non prædicamus nos ipſos, ſed Ieſum Chriſtum, nos
+autem ſeruos veſtros propter Chriſtum. Et iterū: Quid Paulus? Quid Apollo? Mi-
+niſtri eius cui credidiſtis. Vides igitur Apoſtolos ad hoc electos, vt Chriſtum prę
+dicarent. Quomodo autem prædicarent, quem non cognoſcerent? Neceſſarium
+igitur erat, vt ipſi Chriſtū priùs verè cognoſcerēt. Hinc eſt ꝙ Chriſtus eos ꝗd de ſe
+ſentirēt interrogauit. Quē, inquit, dicūt hoīes eße filium hoīs? Vbi obſerua, ꝙ pri
+interrogauit, ꝗd vulgus hoīm ſentiret, nec tn̄ hîc ſubſtitit, ſed &amp; deinceps ꝗd ipſi
+ſentirēt ꝗ̃ſiuit. In reb⁹ em̄ fidei nō ſufficit aliorū opiniones, imò errores recēſere,
+quēadmodum pleriq; faciūt, qui ſe egregiè doctos arbitrantur, ſi aliorū opinio-
+nes teneāt, cùm nihil interim certi habeant, nuncq́; hanc, nunc illā opinionē ſe-
+quūtur, fluctuantq́; tanquam pueri, omniq́; vento doctrinæ ferūtur. In rebus igi
+tur fidei nō opinionibus fidendum, ſed certum aliquid habeas oportet cui tutò
+innitaris. Hinc Chriſt⁹ auditis vulgi opinionib⁹, propriā ab Apoſtolis fidē regrit.
+Sed nūc apoſtolorū reſponſionē audiamus. Alij (inquiunt) Ioannē Baptistā, alij</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
